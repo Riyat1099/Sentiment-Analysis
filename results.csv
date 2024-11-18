@@ -1,0 +1,19 @@
+Timestamp,Age,Gender,State,Feedback,Sentiment
+9/21/2024 19:19:24,23,Female,Gujarat,Bad Product,Negative
+9/21/2024 19:20:53,66,Male,Maharastra,Good Product,Positive
+9/21/2024 19:21:11,28,Male,Maharastra,Positive ,Positive
+9/21/2024 19:21:22,34,Female,Tamil Nadu,Not a worth money,Negative
+9/21/2024 19:22:09,32,Female,Punjab,Below Average,Neutral
+9/21/2024 19:22:37,25,Male,Gujarat,Neutral ,Neutral
+9/21/2024 19:22:43,21,Male,West Bengal,Good product but not a value for money,Negative
+9/21/2024 19:22:59,22,Female,Tamil Nadu,Negative ,Negative
+9/21/2024 19:24:03,30,Male,Maharastra,Good product ,Positive
+9/21/2024 19:24:18,45,Male,West Bengal,Price is not worth the product in the description,Negative
+9/21/2024 19:24:37,33,Male,Gujarat,Not good product ,Negative
+9/21/2024 19:24:50,27,Male,Tamil Nadu,"Do not buy this product, waste of money",Negative
+9/21/2024 19:24:59,21,Male,Kerela,Product can be better,Positive
+9/21/2024 19:25:23,25,Male,Maharastra,I really like how easy this product is to use. It makes my daily tasks much simpler,Positive
+9/21/2024 19:26:04,22,Male,Gujarat,"I’ve had a lot of problems with the product. It crashes often, which is really annoying.",Negative
+9/21/2024 19:26:30,27,Female,Kerela,"The product works fine, but it’s not anything special compared to others. It does what it needs to, but that’s about it.",Negative
+9/21/2024 19:26:53,21,Female,West Bengal,The customer service was great! They answered my questions quickly and helped me a lot,Positive
+9/21/2024 19:27:25,22,Male,Maharastra,I’m not happy with how quickly the product started to wear out. I expected it to last longer,Negative
